@@ -1,0 +1,74 @@
+{
+    "token": "hidden",
+    "clientid": "hidden",
+    "prefix": "!",
+    "version": "3.0.2",
+    "chat": "verify",
+    "userrole": "497809563991670787",
+    "streamingGame": "Protecting server from raid.",
+    "streamingLink": "https://www.twitch.tv/GGabrielo",
+    "evalAllowed": "true",
+    "ownerid": "159423571590905857",
+    "logging": true,
+    "captchaType": "image",
+    "commands": {
+        "blockUser": {
+            "command": "block",
+            "contributors": [],
+            "enabled": true
+        },
+        "removeBlockFromUser": {
+            "command": "removeBlock",
+            "contributors": [],
+            "enabled": true
+        },
+        "banGuildMember": {
+            "command": "ban",
+            "contributors": [],
+            "enabled": true
+        },
+        "clear": {
+            "command": "clear",
+            "contributors": [],
+            "enabled": true
+        },
+        "version": {
+            "command": "version",
+            "enabled": true
+        },
+        "queries": {
+            "command": "queries",
+            "enabled": true,
+            "contributors": []
+        },
+        "querydelete": {
+            "command": "querydelete",
+            "enabled": true,
+            "contributors": []
+        },
+        "purgelogs": {
+            "command": "purgelogs",
+            "enabled": true,
+            "contributors": []
+        },
+        "logs": {
+            "command": "logs",
+            "enabled": true,
+            "contributors": []
+        },
+        "captchas": {
+            "command": "captchas",
+            "enabled": true,
+            "contributors": []
+        },
+        "makerole": {
+            "command": "create-role",
+            "enabled": true,
+            "contributors": []
+        },
+        "unverify": {
+            "command": "unverify",
+            "enabled": true
+        }
+    }
+}

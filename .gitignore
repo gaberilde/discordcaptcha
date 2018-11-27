@@ -1,0 +1,7 @@
+# Folders
+
+node_modules/
+cfg_gen/
+
+# Files
+src/config.json
